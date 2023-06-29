@@ -1,4 +1,4 @@
 imu_topic: "/camera/imu"
 imu_rate: 200
 measure_rate: 200 # Rate to which imu data is subsampled
-sequence_time: 14410 # ~4 hours in seconds
+sequence_time: 14390 # ~4 hours in seconds
